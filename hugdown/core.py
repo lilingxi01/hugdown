@@ -95,6 +95,13 @@ class HuggingfaceDL:
 
         logging.info(f'Preloaded {len(self.files)} files from {repo}.')
 
+    def add_download_link(self, link: str):
+        """
+        Add a download link to the downloader.
+        :param link: The download link.
+        """
+        self.files.append(link)
+
     def download_executor(self, url: str, target_dir: str):
         """
         Downloads a file from the given URL to the target directory.

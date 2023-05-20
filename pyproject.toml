@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "hugdown"
 version = "0.1.0"
-description = "A HuggingFace file downloader."
+description = "A HuggingFace file downloader that retries automatically."
 authors = ["Lingxi Li <lilingxi01@gmail.com>"]
 license = "MIT"
 readme = "README.md"
