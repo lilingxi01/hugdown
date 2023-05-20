@@ -1,1 +1,1 @@
-<img src="https://imagedelivery.net/Dr98IMl5gQ9tPkFM5JRcng/57e5e408-f668-4302-ae72-98739ad66700/HD" alt="Cover"/>
+<img src="https://imagedelivery.net/Dr98IMl5gQ9tPkFM5JRcng/2399ebc8-449a-4090-6538-6ac4b92ae700/HD" alt="Cover"/>
