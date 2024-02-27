@@ -38,7 +38,7 @@ _DEFAULT_NUM_PROC = 1
 _DEFAULT_LOG_LEVEL = logging.INFO
 
 
-class HuggingfaceDL:
+class HugDown:
     """
     A downloader for downloading files from the web.
 
